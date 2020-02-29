@@ -13,7 +13,7 @@ def ez_download(d, r, u, f):
         print("Skipping already existing file: {}".format(d))
         return
     else:
-        print("Downloading {} to {}".format(u, d))
+        print("Downloading {} to {}".format(f, d))
         with open(d, "wb") as download:
             r = get(u, headers=h)
             download.write(r.content)
@@ -21,8 +21,14 @@ def ez_download(d, r, u, f):
 if __name__ == "__main__":
     arg_count = len(sys.argv)
 
-    mods_dir = os.path.join(os.environ['USERPROFILE'],
-            "Documents\\My Games\\FarmingSimulator2019\\mods")
+    cur_dir = os.path.basename(os.getcwd())
+    if cur_dir == "mods":
+        print("Using current directory to download mods into.")
+        mods_dir = cur_dir
+    else:
+        print("Mods will be downloaded to: {}".formatwds
+        mods_dir = os.path.join(os.environ['USERPROFILE'],
+                "Documents\\My Games\\FarmingSimulator2019\\mods")
 
     if arg_count <= 1:
         sys.exit("Missing mods file")
@@ -40,6 +46,7 @@ if __name__ == "__main__":
             else:
                 p = line
 
+    mod_count = len(urls)
     for download in urls:
         ez_download(mods_dir, *download)
 

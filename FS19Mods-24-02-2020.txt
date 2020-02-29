@@ -1,0 +1,409 @@
+15/02/2020 (Giants Software Mods)
+	Package
+		Kemper Pack
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=146881&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00146881/FS19_kemperPack.zip
+		Rostselmash Pack
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=146882&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00146882/FS19_rostselmashPack.zip
+		Horsch Pack
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=127499&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00127499/FS19_horschPack.zip
+		HOLMER Terra Variant DLC
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=132156&title=fs2019
+			https://cdn5.giants-software.com/modHub/storage/00132156/FS19_holmerPack.zip
+	Small Tractors
+		Deutz AgroStar 661
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=117431&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00117431/FS19_deutzAgroStar661.zip
+		Case IH 1455
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=117751&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00117751/FS19_caseIH1455XL.zip
+		Huerlimann H488
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=117818&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00117818/FS19_huerlimannH488.zip
+		New Holland 8340
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=119754&title=fs2019
+			https://cdn10.giants-software.com/modHub/storage/00119754/FS19_newHolland8340.zip
+		Valtra N Series CowEdition
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=122792&title=fs2019
+			https://cdn10.giants-software.com/modHub/storage/00122792/FS19_valtraNSeriesCowEdition.zip
+	Medium Tractors
+		Lamborghini Mach 230 VRT
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=120800&title=fs2019
+			https://cdn10.giants-software.com/modHub/storage/00120800/FS19_lamborghiniMachVRT.zip
+		Deutz Fahr Series 7
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=121720&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00121720/FS19_deutzSeries7.zip
+		Valtra T 234 WR Edition
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=124226&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00124226/FS19_valtraTSeriesWREdition.zip
+		Valtra T Series CowEdition
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=123693&title=fs2019
+			https://cdn10.giants-software.com/modHub/storage/00123693/FS19_valtraTSeriesCowEdition.zip
+		Schlüter 2500 VL
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=133869&title=fs2019
+			https://cdn10.giants-software.com/modHub/storage/00133869/FS19_schlueter2500.zip
+	Large Tractors
+		AXION 960-930 TERRA TRAC
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=148887&title=fs2019
+			https://cdn10.giants-software.com/modHub/storage/00148887/FS19_claasAxion900TT.zip
+		Challenger MT700E
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=123438&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00123438/FS19_challengerMT700E.zip
+		Challenger MT700E Stealth
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=125331&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00125331/FS19_challengerMT700EStealth.zip
+		Challenger MT900E Field Anaconda
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=126117&title=fs2019
+			https://cdn10.giants-software.com/modHub/storage/00126117/FS19_challengerMT900EFieldAnaconda.zip
+		Challenger MT700E Field Viper
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=123439&title=fs2019
+			https://cdn10.giants-software.com/modHub/storage/00123439/FS19_challengerMT700EFieldViper.zip
+		Challenger MT800E Field Python
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=123440&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00123440/FS19_challengerMT800EFieldPython.zip
+		Big Bud 747
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=120574&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00120574/FS19_bigBud747.zip
+		Big Bud 450
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=120575&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00120575/FS19_bigBud450.zip
+		Valtra S Series CowEdition
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=125446&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00125446/FS19_valtraSSeriesCowEdition.zip
+		Fendt 900 Black Beauty
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=121206&title=fs2019
+			https://cdn10.giants-software.com/modHub/storage/00121206/FS19_fendt900BlackBeauty.zip
+	Trailers
+		Brantner TA 23065
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=146878&title=fs2019
+			https://cdn10.giants-software.com/modHub/storage/00146878/FS19_brantnerTA23065.zip
+		Brantner TA 23071
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=122005&title=fs2019
+			https://cdn10.giants-software.com/modHub/storage/00122005/FS19_brantnerTA23071.zip
+		ITRunner Pack
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=121261&title=fs2019
+			https://cdn10.giants-software.com/modHub/storage/00121261/FS19_itRunnerPack.zip
+		Fliegl ASS 298
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=119753&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00119753/FS19_flieglASS298.zip
+	Auger Wagons
+		Brent Avalanche 1596
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=126787&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00126787/FS19_brentAvalanche1596.zip
+		Bergmann GTW 430
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=126118&title=fs2019
+			https://cdn10.giants-software.com/modHub/storage/00126118/FS19_bergmannGTW430.zip
+		Stara Reboke Ninja 33000
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=123441&title=fs2019
+			https://cdn10.giants-software.com/modHub/storage/00123441/FS19_staraNinja33000.zip
+	Animals
+		Siloking SelfLine Compact 1612
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=125151&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00125151/FS19_silokingSelfLineCompact1612.zip
+	Crop Protection
+		New Holland SP400F
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=125150&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00125150/FS19_newHollandSP400F.zip
+		Amazone Pantera 4502
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=126785&title=fs2019
+			https://cdn10.giants-software.com/modHub/storage/00126785/FS19_amazonePantera.zip
+		Caruelle Nicolas Stilla 460
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=124166&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00124166/FS19_caruelleNicolasStilla460.zip
+	Plows
+		Kuhn VariMaster 153
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=124697&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00124697/FS19_kuhnVariMaster153.zip
+	Cultivators
+		Treffler TG 615
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=146161&title=fs2019
+			https://cdn10.giants-software.com/modHub/storage/00146161/FS19_trefflerTG615.zip
+		Köckerling Allrounder
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=133459&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00133459/FS19_koeckerlingAllrounder.zip
+		Horsch Tiger 10LT
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=125330&title=fs2019
+			https://cdn5.giants-software.com/modHub/storage/00125330/FS19_horschTiger10LT.zip
+	Planters
+		Kuhn Planter 3R 12 Rows
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=117808&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00117808/FS19_kuhnPlanter3R12.zip
+	Seeders
+		Kuhn Espro 3000
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=126255&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00126255/FS19_kuhnEspro3000.zip
+		Great Plains GP3P1006NT
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=122790&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00122790/FS19_greatPlains3P1006NT.zip
+	Fertilizer Technology
+		Bredal F2WS4000
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=126260&title=fs2019
+			https://cdn10.giants-software.com/modHub/storage/00126260/FS19_bredalF2WS4000.zip
+		Kverneland Exacta EL
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=118907&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00118907/FS19_kvernelandExactaEL.zip
+	Slurry Tanks
+		Briri Field Master 20
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=146879&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00146879/FS19_bririFieldMaster20.zip
+	Manure Spreaders
+		Bergmann TSW 6240W
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=146868&title=fs2019
+			https://cdn10.giants-software.com/modHub/storage/00146868/FS19_bergmannTSW6240W.zip
+		Brochard EV 2200
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=121207&title=fs2019
+			https://cdn10.giants-software.com/modHub/storage/00121207/FS19_brochardEV2200.zip
+	Mowers
+		Splendimo 900 MC
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=120806&title=fs2019
+			https://cdn10.giants-software.com/modHub/storage/00120806/FS19_lelySplendimo900MC.zip
+		Splendimo 320 FC
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=120804&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00120804/FS19_lelySplendimo320FC.zip
+	Baling Technology
+		Massey Ferguson 2270 XD
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=127091&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00127091/FS19_masseyFerguson2270.zip
+		New Holland BigBaler 1290
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=125445&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00125445/FS19_newHollandBB1290.zip
+		Kuhn VB 2190
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=127092&title=fs2019
+			https://cdn10.giants-software.com/modHub/storage/00127092/FS19_kuhnVB2190.zip
+		Fliegl DPW 180
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=118906&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00118906/FS19_flieglDPW180.zip
+		Ursus Z586
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=117433&title=fs2019
+			https://cdn10.giants-software.com/modHub/storage/00117433/FS19_ursusZ586.zip
+		Ursus T127
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=117865&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00117865/FS19_ursusT127.zip
+	Front Loaders
+		Hauer SGS2600
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=125843&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00125843/FS19_hauerSGS2600.zip
+		Hauer XB
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=125844&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00125844/FS19_hauerXB150.zip
+	Wheel Loaders
+		Liebherr L538
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=124225&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00124225/FS19_liebherrL538.zip
+		JCB 435 S
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=117427&title=fs2019
+			https://cdn10.giants-software.com/modHub/storage/00117427/FS19_jcb435S.zip
+	Skid Steer Loaders
+		JCB 325 T
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=124720&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00124720/FS19_jcbSkidSteer.zip
+	Telehandlers
+		Liebherr TL 436-7
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=122791&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00122791/FS19_liebherrTL436.zip
+	Harvesters
+		New Holland TC5.90
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=123357&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00123357/FS19_newHollandTC590.zip
+		New Holland Varifeed 18
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=123360&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00123360/FS19_newHollandVarifeed18.zip
+		CaseIH 1660
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=117425&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00117425/FS19_caseIH1660.zip
+		CaseIH 1030 Cutter
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=117432&title=fs2019
+			https://cdn5.giants-software.com/modHub/storage/00117432/FS19_caseIH1030.zip
+	Forage Harvesters
+		Rostselmash 1403 Pack
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=126256&title=fs2019
+			https://cdn10.giants-software.com/modHub/storage/00126256/FS19_rsm1403Pack.zip
+		Krone BigX 580
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=120415&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00120415/FS19_kroneBiGX580.zip
+		Krone EasyCollect 600
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=120416&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00120416/FS19_kroneEasyCollect600_2.zip
+	Farm Buildings
+		Beehouse
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=127835&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00127835/FS19_placeableBeeHive.zip
+		Greenhouses
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=127837&title=fs2019
+			https://cdn10.giants-software.com/modHub/storage/00127837/FS19_placeableGreenhouses.zip
+		Wind Turbine
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=127838&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00127838/FS19_placeableWindTurbine.zip
+	Gameplay
+		Placeable Refill Tanks
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=125329&title=fs2019
+			https://cdn10.giants-software.com/modHub/storage/00125329/FS19_placeableRefillStation.zip
+		Disable Vehicle Camera Collision
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=112755&title=fs2019
+			https://cdn10.giants-software.com/modHub/storage/00112755/FS19_disableVehicleCameraCollision.zip
+	Misc
+		Hauer Snow Pack
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=137675&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00137675/FS19_hauerSnowPack.zip
+		
+
+15/02/2020 (Third Party Mods)
+	Large Tractors
+		Fendt 800 Favorit
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=142613&title=fs2019
+			https://cdn10.giants-software.com/modHub/storage/00142613/FS19_Fendt_800_favorit.zip
+	Trucks
+		5th Wheel Hitch Pack
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=133337&title=fs2019
+			https://cdn10.giants-software.com/modHub/storage/00133337/FS19_5th_Pack.zip
+	Trailers
+		Wilson Pacesetter Super B
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=130632&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00130632/FS19_Wilson_SuperB.zip
+		KAWECO PullBox 8000H
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=145496&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00145496/FS19_KAWECO_PullBox_8000H.zip
+	Low Loaders
+		DO24 Trailer
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=124434&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00124434/FS19_trailerDO24.zip
+	Package
+		Bag'n'Lifter Pack
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=121049&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00121049/FS19_bagLifter.zip
+	Buildings
+		Root Crop Storage
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=120549&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00120549/FS19_rootCropStorage.zip
+		Old Mashinery Shed
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=118111&title=fs2019
+			https://cdn10.giants-software.com/modHub/storage/00118111/FS19_mashineryShed.zip
+
+	
+24/02/2020 (GlobalCompany Mods)
+	GlobalCompany
+		https://farming-simulator.com/mod.php?lang=en&country=gb&mod_id=137078&title=fs2019
+		https://cdn16.giants-software.com/modHub/storage/00137078/FS19_GlobalCompany.zip
+		
+	GlobalCompany - Digital Display
+		https://farming-simulator.com/mod.php?lang=en&country=gb&mod_id=152024&title=fs2019
+		https://cdn10.giants-software.com/modHub/storage/00152024/FS19_GlobalCompanyPlaceable_PlaceableDisplay.zip
+		
+	GlobalCompany - Potatowasher
+		https://farming-simulator.com/mod.php?lang=en&country=gb&mod_id=147594&title=fs2019
+		https://cdn10.giants-software.com/modHub/storage/00147594/FS19_GlobalCompanyPlaceable_PW.zip
+		
+	GlobalCompany - Potatosorter
+		https://farming-simulator.com/mod.php?lang=en&country=gb&mod_id=148874&title=fs2019
+		https://cdn16.giants-software.com/modHub/storage/00148874/FS19_GlobalCompanyPlaceable_Sorter.zip
+		
+	Egg Storage (GlobalCompany)
+		https://farming-simulator.com/mod.php?lang=en&country=gb&mod_id=145631&title=fs2019
+		https://cdn16.giants-software.com/modHub/storage/00145631/FS19_EggsStorage.zip
+		
+	GlobalCompany - CCM Mill
+		https://farming-simulator.com/mod.php?lang=en&country=gb&mod_id=146996&title=fs2019
+		https://cdn16.giants-software.com/modHub/storage/00146996/FS19_GlobalCompanyPlaceable_Mill.zip
+		
+	Wool Storage (GlobalCompany)
+		https://farming-simulator.com/mod.php?lang=en&country=gb&mod_id=145635&title=fs2019
+		https://cdn10.giants-software.com/modHub/storage/00145635/FS19_WoolStorageShed.zip
+		
+	GlobalCompany - Hay Dryer
+		https://farming-simulator.com/mod.php?lang=en&country=gb&mod_id=141209&title=fs2019
+		https://cdn10.giants-software.com/modHub/storage/00141209/FS19_GlobalCompanyPlaceable_HayDrayer.zip
+		
+	GlobalCompany - Fermenting Silo
+		https://farming-simulator.com/mod.php?lang=en&country=gb&mod_id=137157&title=fs2019
+		https://cdn16.giants-software.com/modHub/storage/00137157/FS19_GlobalCompanyPlaceable_FermentingSilo.zip
+		
+	GlobalCompany - BGA with Grimme BeetBeater
+		https://farming-simulator.com/mod.php?lang=en&country=gb&mod_id=137160&title=fs2019
+		https://cdn16.giants-software.com/modHub/storage/00137160/FS19_GlobalCompanyPlaceable_BGA_GrimmeBeetBeater.zip
+		
+	GlobalCompany - SeedMaker
+		https://farming-simulator.com/mod.php?lang=en&country=gb&mod_id=137159&title=fs2019
+		https://cdn16.giants-software.com/modHub/storage/00137159/FS19_GlobalCompanyPlaceable_SeedMaker.zip
+
+	GlobalCompany Addon ManureBarrelFix
+		https://farming-simulator.com/mod.php?lang=en&country=gb&mod_id=138176&title=fs2019
+		https://cdn10.giants-software.com/modHub/storage/00138176/FS19_GlobalCompanyAddOn_ManureBarrelFix.zip
+
+	Dynamic Grain Storage (GlobalCompany)
+		https://farming-simulator.com/mod.php?lang=en&country=gb&mod_id=140589&title=fs2019
+		https://cdn10.giants-software.com/modHub/storage/00140589/FS19_GlobalCompanyPlaceable_DynamicStorageHall.zip
+
+	
+24/02/2020 (Third Party Mods)
+	Misc
+		Hitachi ZX290LC
+			https://www.farming-simulator.com/mod.php?lang=en&country=gb&mod_id=148886&title=fs2019
+			https://cdn10.giants-software.com/modHub/storage/00148886/FS19_HitachiZX290LC.zip
+		Field Service Trailer
+			https://www.farming-simulator.com/mod.php?lang=en&country=gb&mod_id=123428&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00123428/FS19_FST99Service.zip
+	Slurry Tanks
+		TSA 30000
+			https://www.farming-simulator.com/mod.php?lang=en&country=gb&mod_id=150966&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00150966/FS19_tsa_30000.zip
+		Veenhuis Premium Integral 20000
+			https://www.farming-simulator.com/mod.php?lang=en&country=gb&mod_id=132872&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00132872/FS19_VeenhuisPremium20000.zip
+		Lizard 2500R Slurry Spreader
+			https://www.farming-simulator.com/mod.php?lang=en&country=gb&mod_id=145717&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00145717/FS19_Lizard2500.zip
+	Trucks
+		NMC Griffin
+			https://www.farming-simulator.com/mod.php?lang=en&country=gb&mod_id=152351&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00152351/FS19_NMC_Griffin_UniversalPassenger.zip
+	Trailers
+		FS 19 HW80 Trailer Pack
+			https://www.farming-simulator.com/mod.php?lang=en&country=gb&mod_id=126615&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00126615/FS19_Hw80_pack.zip
+	Gameplay
+		Universal Passenger
+			https://www.farming-simulator.com/mod.php?lang=en&country=gb&mod_id=139095&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00139095/FS19_UniversalPassenger.zip
+		Universal Passenger - Vehicles Of ModHub
+			https://www.farming-simulator.com/mod.php?lang=en&country=gb&mod_id=139526&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00139526/FS19_UniversalPassenger_VehiclesOfModHub.zip
+		Frontloader Axle Lock Remover
+			https://www.farming-simulator.com/mod.php?lang=en&country=gb&mod_id=127898&title=fs2019
+			https://cdn10.giants-software.com/modHub/storage/00127898/FS19_frontloaderAxleLockRemover.zip
+		Animal Screen Extended
+			https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=134223&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00134223/FS19_AnimalScreenExtended.zip
+		Finer Timescale Adjustment
+			https://www.farming-simulator.com/mod.php?lang=en&country=gb&mod_id=130154&title=fs2019
+			https://cdn10.giants-software.com/modHub/storage/00130154/FS19_fineTimescaleAdjustment.zip
+	Forestry Equipment
+		Skidder MF320
+			https://www.farming-simulator.com/mod.php?lang=en&country=gb&mod_id=126215&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00126215/FS19_MF320.zip
+	Placeables
+		Fueltank 5000l
+			https://www.farming-simulator.com/mod.php?lang=en&country=gb&mod_id=118063&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00118063/FS19_fuelTank5000.zip
+		Silo Displays
+			https://www.farming-simulator.com/mod.php?lang=en&country=gb&mod_id=147201&title=fs2019
+			https://cdn10.giants-software.com/modHub/storage/00147201/FS19_SiloDisplays.zip
+		Placeable Solar Panels
+			https://www.farming-simulator.com/mod.php?lang=en&country=gb&mod_id=119623&title=fs2019
+			https://cdn10.giants-software.com/modHub/storage/00119623/FS19_PlaceableSolarPanels.zip
+		Fruit Orchards
+			https://www.farming-simulator.com/mod.php?lang=en&country=gb&mod_id=134224&title=fs2019
+			https://cdn5.giants-software.com/modHub/storage/00134224/FS19_FruitOrchards_console.zip
+		Composite Machine Sheds
+			https://www.farming-simulator.com/mod.php?lang=en&country=gb&mod_id=118802&title=fs2019
+			https://cdn10.giants-software.com/modHub/storage/00118802/FS19_compositeHallPack.zip
+		Animal Feed Mixers
+			https://www.farming-simulator.com/mod.php?lang=en&country=gb&mod_id=146546&title=fs2019
+			https://cdn10.giants-software.com/modHub/storage/00146546/FS19_FI_FeedMixers.zip
+		Bunker Silo Set
+			https://www.farming-simulator.com/mod.php?lang=en&country=gb&mod_id=141874&title=fs2019
+			https://cdn16.giants-software.com/modHub/storage/00141874/FS19_bunkerSiloSet.zip
+		Powerful Spotlights
+			https://www.farming-simulator.com/mod.php?lang=en&country=gb&mod_id=120707&title=fs2019
+			https://cdn10.giants-software.com/modHub/storage/00120707/FS19_powerLights.zip
